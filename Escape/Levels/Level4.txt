@@ -1,0 +1,105 @@
+Brute Force
+GameScreens//Floor2.png
+6
+5
+320 200
+ 
+Wall-H.png
+A boring old wall.
+Wall-H.png
+0 0
+
+Wall
+A boring old wall.
+Wall-H.png
+0 450
+
+Wall
+A boring old wall.
+Wall-V.png
+0 50
+
+Wall
+A boring old wall.
+Wall-V.png
+950 50
+
+Table
+A boring old table.
+Table4.png
+750 50
+
+Sink
+An old melancholy sink.
+Sink4.png
+850 50
+
+Pliers
+A pair of industrial strength pliers.
+A pair of industrial strength pliers.
+A pair of industrial strength pliers.
+Pliers.png
+Pliers.png
+Pliers.png
+600 320
+-1
+-1
+-1
+true
+false
+
+Wardrobe
+An old wooden wardrobe.
+The wardrobe is locked.
+You pried it open!
+Cupboard1.png
+Cupboard1.png
+Cupboard2.png
+550 50
+-1
+2
+0
+false
+true
+
+Key
+A silver key that unlocks something.
+d2
+d3
+Key3.png
+Key3.png
+Key3.png
+650 145
+1
+-1
+-1
+true
+false
+
+Bed
+A simple bed.
+There's nothing there.
+d3
+Bed1.png
+Bed1.png
+Bed1.png
+50 150
+-1
+-1
+-1
+false
+false
+
+Trapdoor
+This leads to the floor below.
+The trapdoor is locked.
+The trapdoor is unlocked.
+Trapdoor1.png
+Trapdoor1.png
+Trapdoor2.png
+800 300
+-1
+-1
+2
+false
+false

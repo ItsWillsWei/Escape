@@ -1,0 +1,96 @@
+Troll Room
+GameScreens//Floor2.png
+7
+4
+320 200
+
+Wall
+A boring old wall.
+Wall-H.png
+0 0
+
+Wall
+A boring old wall.
+Wall-H.png
+0 450
+
+Wall
+A boring old wall.
+Wall-V.png
+0 50
+
+Wall
+A boring old wall.
+Wall-V.png
+950 50
+
+Statue
+A peculiar statue...
+trollFace.png
+300 60
+
+Statue
+A peculiar statue...
+trollFace.png
+500 60
+
+Statue
+A peculiar statue...
+trollFace.png
+60 200
+
+Wall
+A boring old wall.
+A boring old wall.
+A boring old wall.
+Wall-V.png
+Wall-V.png
+Wall-V.png
+700 50
+1
+-1
+-1
+false
+false
+
+Statue
+A peculiar statue...
+A peculiar statue...
+Something happened!
+trollFace.png
+trollFace.png
+trollFace.png
+60 60
+-1
+0
+-1
+false
+true
+
+Key
+A gold key that unlocks something.
+d2
+d3
+Key.png
+Key.png
+Key.png
+870 300
+-1
+-1
+-1
+true
+false
+
+Trapdoor
+This leads to the floor below.
+The trapdoor is locked.
+The trapdoor is unlocked.
+Trapdoor1.png
+Trapdoor1.png
+Trapdoor2.png
+425 300
+-1
+-1
+2
+false
+false

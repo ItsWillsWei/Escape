@@ -1,0 +1,81 @@
+Hawkeye Room
+GameScreens//Floor2.png
+4
+4
+320 200
+
+Wall
+A boring old wall.
+Wall-H.png
+0 0
+
+Wall
+A boring old wall.
+Wall-H.png
+0 450
+
+Wall
+A boring old wall.
+Wall-V.png
+0 50
+
+Wall
+A boring old wall.
+Wall-V.png
+950 50
+
+
+
+A hidden key!
+A hidden key!
+Weak-Floor.png
+Weak-Floor.png
+Weak-Floor1.png
+850 350
+-1
+1
+-1
+false
+true
+
+Key
+A bronze key that unlocks something.
+d2
+d3
+Key2.png
+Key2.png
+Key2.png
+870 360
+0
+-1
+-1
+true
+false
+
+Bed
+A simple bed.
+There's nothing there
+There's nothing there...
+Bed1.png
+Bed2.png
+Bed2.png
+50 50
+-1
+-1
+-1
+false
+true
+
+Trapdoor
+This leads to the floor below.
+The trapdoor is locked.
+The trapdoor is unlocked.
+Trapdoor1.png
+Trapdoor1.png
+Trapdoor2.png
+425 300
+-1
+-1
+1
+false
+false

@@ -1,0 +1,82 @@
+Labyrinth Room
+GameScreens//Floor2.png
+7
+3
+50 50
+
+Wall
+A boring old wall.
+Wall-V.png
+500 150
+
+Wall
+A boring old wall.
+Wall-V.png
+200 -300
+
+Wall
+A boring old wall.
+Wall-V.png
+720 -100
+
+Wall
+A boring old wall.
+Wall-H.png
+0 0
+
+Wall
+A boring old wall.
+Wall-H.png
+0 450
+
+Wall
+A boring old wall.
+Wall-V.png
+0 50
+
+Wall
+A boring old wall.
+Wall-V.png
+950 50
+
+Key
+A brass key.
+A weird key.
+Trololol
+Key.png
+trollFace.png
+trollFace.png
+300 350
+-1
+1
+-1
+false
+true
+
+Exit Key
+A key that unlocks a trapdoor.
+d2
+d3
+Key.png
+Key.png
+Key.png
+900 50
+0
+-1
+-1
+true
+false
+
+Trapdoor
+This leads to the floor below.
+The trapdoor is locked.
+The trapdoor is unlocked.
+Trapdoor1.png
+Trapdoor1.png
+Trapdoor2.png
+50 280
+-1
+-1
+1
+false
+false

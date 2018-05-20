@@ -1,0 +1,202 @@
+Salon
+GameScreens//Floor2.png
+3
+13
+320 200
+
+Wall
+A boring old wall.
+Wall-H.png
+0 0
+
+Wall
+A boring old wall.
+Wall-V.png
+0 50
+
+Wall
+A boring old wall.
+Wall-V.png
+950 50
+
+Wardrobe
+An old wooden wardrobe.
+The wardrobe is locked.
+The wardrobe is locked.
+Cupboard1.png
+Cupboard1.png
+Cupboard1.png
+750 50
+-1
+-1
+-1
+false
+true
+
+Crowbar
+A heavy-duty crowbar.
+A heavy-duty crowbar.
+A heavy-duty crowbar.
+Crowbar.png
+Crowbar.png
+Crowbar.png
+900 400
+-1
+-1
+-1
+true
+false
+
+Weak Floor
+An ugly floor job.
+You can't seem to pull it apart.
+You rip off the floor boards.
+Weak-Floor1.png
+Weak-Floor1.png
+Weak-Floor2.png
+450 300
+-1
+3
+1
+false
+false
+
+Pliers
+A pair of industrial strength pliers.
+A pair of industrial strength pliers.
+A pair of industrial strength pliers.
+Pliers.png
+Pliers.png
+Pliers.png
+450 350
+2
+-1
+-1
+true
+false
+
+Sink
+An old dismal sink.
+It's not working.
+You remove some piping from the sink.
+Sink4.png
+Sink4.png
+Sink3.png
+500 50
+-1
+5
+3
+false
+false
+
+Piping
+A bunch of sink pipes.
+d2
+d3
+Tap1.png
+Tap1.png
+Tap1.png
+550 165
+4
+-1
+-1
+true
+false
+
+Sink
+A depressing sink.
+It's not working.
+You fix the pipes under the sink.
+Sink1.png
+Sink1.png
+Sink2.png
+600 50
+-1
+7
+5
+false
+false
+
+Saw
+A crude metal saw.
+A crude metal saw.
+A crude metal saw.
+Saw.png
+Saw.png
+Saw.png
+620 165
+6
+-1
+8
+true
+false
+
+Bed
+A simple bed.
+There's nothing there.
+You saw through the mattress. There's a key.
+Bed1.png
+Bed1.png
+Bed3.png
+50 150
+-1
+9
+7
+false
+false
+
+Key
+A key that unlocks a door.
+d2
+d3
+Key.png
+Key.png
+Key.png
+150 270
+8
+-1
+-1
+true
+false
+
+Wall
+A boring old wall.
+A boring old wall.
+A boring old wall.
+Wall-H-Last.png
+Wall-H-Last.png
+Wall-H-Last.png
+0 450
+-1
+-1
+-1
+false
+false
+
+Wardrobe
+An old wooden wardrobe.
+The wardrobe is locked.
+The wardrobe is locked.
+Cupboard1.png
+Cupboard1.png
+Cupboard1.png
+200 50
+-1
+-1
+-1
+false
+true
+
+Door
+This leads to your freedom.
+The door is locked.
+The door is unlocked.
+Door.png
+Door.png
+Door.png
+400 450
+-1
+-1
+9
+false
+false

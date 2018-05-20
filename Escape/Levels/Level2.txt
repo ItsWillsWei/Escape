@@ -1,0 +1,151 @@
+Difficult Room
+GameScreens//Floor2.png
+4
+9
+320 200
+
+Wall
+A boring old wall.
+Wall-H.png
+0 0
+
+Wall
+A boring old wall.
+Wall-H.png
+0 450
+
+Wall
+A boring old wall.
+Wall-V.png
+0 50
+
+Wall
+A boring old wall.
+Wall-V.png
+950 50
+
+Bed
+A simple bed.
+You lift up the covers.
+There's something there...
+Bed1.png
+Bed1.png
+Bed2.png
+50 50
+-1
+1
+-1
+false
+true
+
+Tap
+A small metal tap.
+d2
+d3
+Tap2.png
+Tap2.png
+Tap2.png
+100 165
+0
+-1
+-1
+true
+false
+
+Sink
+A small melancholy sink.
+It's missing a tap...
+A key falls out of the pipe.
+Sink1.png
+Sink1.png
+Sink2.png
+300 50
+-1
+3
+1
+false
+false
+
+Key
+A brass key.
+d2
+d3
+Key2.png
+Key2.png
+Key2.png
+340 170
+2
+-1
+-1
+true
+false
+
+Wardrobe
+An old wooden wardrobe.
+The wardrobe is locked.
+You find a key inside.
+Cupboard1.png
+Cupboard1.png
+Cupboard2.png
+700 50
+-1
+-1
+-2
+false
+false
+
+Wardrobe
+An old wooden wardrobe.
+The wardrobe is locked.
+You find a key inside.
+Cupboard1.png
+Cupboard1.png
+Cupboard2.png
+500 50
+-1
+6
+3
+false
+false
+
+Key
+A silver key that unlocks something.
+d2
+d3
+Key3.png
+Key3.png
+Key3.png
+600 150
+5
+-1
+-1
+true
+false
+
+Table
+A solid wooden table.
+A boring wooden table.
+A boring wooden table.
+Table3.png
+Table3.png
+Table3.png
+50 350
+-1
+-1
+-2
+false
+true
+
+Trapdoor
+This leads to the floor below.
+The trapdoor is locked.
+The trapdoor is unlocked.
+Trapdoor1.png
+Trapdoor1.png
+Trapdoor2.png
+425 300
+-1
+-1
+6
+false
+false

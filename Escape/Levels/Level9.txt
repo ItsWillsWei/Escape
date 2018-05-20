@@ -1,0 +1,121 @@
+Table Shopping
+GameScreens//Floor2.png
+12
+4
+820 250
+
+Wall
+A boring old wall.
+Wall-H.png
+0 0
+
+Wall
+A boring old wall.
+Wall-H.png
+0 450
+
+Wall
+A boring old wall.
+Wall-V.png
+0 50
+
+Wall
+A boring old wall.
+Wall-V.png
+950 50
+
+Table
+A boring table.
+Table4.png
+150 350
+
+Table
+A boring table.
+Table4.png
+250 50
+
+Table
+A boring table.
+Table4.png
+350 250
+
+Table
+A boring table.
+Table4.png
+350 350
+
+Table
+A boring table.
+Table4.png
+550 50
+
+Table
+A boring table.
+Table4.png
+550 150
+
+Table
+A boring table.
+Table4.png
+550 250
+
+Table
+A boring table.
+Table4.png
+750 350
+
+Pliers
+A pair of industrial strength pliers.
+A pair of industrial strength pliers.
+A pair of industrial strength pliers.
+Pliers.png
+Pliers.png
+Pliers.png
+70 390
+-1
+-1
+-1
+true
+false
+
+Cupboard
+An old wooden cupboard.
+The cupboard is firmly locked.
+You force it open!
+Cupboard1.png
+Cupboard1.png
+Cupboard2.png
+50 50
+-1
+2
+0
+false
+false
+
+Key
+A bronze key that unlocks something.
+A bronze key that unlocks something.
+A bronze key that unlocks something.
+Key2.png
+Key2.png
+Key2.png
+160 150
+1
+-1
+-1
+true
+false
+
+Trapdoor
+This leads to the floor below.
+The trapdoor is locked.
+The trapdoor is unlocked.
+Trapdoor1.png
+Trapdoor1.png
+Trapdoor2.png
+800 50
+-1
+-1
+2
+false
+false
